@@ -10,4 +10,4 @@ labels:
 summary: A sudoku solver that I implemented for ICS 211.
 ---
 
-Testing!
+Testing
