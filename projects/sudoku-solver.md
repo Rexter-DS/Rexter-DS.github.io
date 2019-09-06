@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/sudoku.jpg
+image: images/sudoku-puzzle.jpg
 title: Hexadecimal Sudoku Solver
 permalink: projects/sudoku
 date: 2016-09-10
