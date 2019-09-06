@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-images: images/FRCRobotics2017.jpg
+images: images/frc-logo.jpg
 title: FRC Robotics: Steamworks
 permalink: projects/robotics2017
 date: 2017-04-01
