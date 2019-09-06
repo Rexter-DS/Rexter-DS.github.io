@@ -9,8 +9,7 @@ labels:
   - C
   - C++
   - Data Structure
- summary: A text based bank that used a linked list data structure to store user accounts.
- ---
+summary: A text based bank that used a linked list data structure to store user accounts.
+---
  
  Testing
-  
