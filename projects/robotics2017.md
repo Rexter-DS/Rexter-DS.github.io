@@ -11,4 +11,4 @@ labels:
 summary: I was a part of a high school robotics team that participated in an international high school robotics competition called FIRST Robotics Competition, or FRC.
 ---
 
-Testing
+
