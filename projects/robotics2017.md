@@ -11,11 +11,9 @@ labels:
 summary: I was a part of a high school robotics team that participated in an international high school robotics competition called FIRST Robotics Competition, or FRC.
 ---
 
-<div class="ui-images">
-  <img class="image" src="../images/2017-TeamPicture.jpg">
-  <img class="image" src="../images/first-steamworks-field.jpg">
-</div>
 
+ <img class="image" src="../images/2017-TeamPicture.jpg">
+ 
 ## What is FIRST Robotics Competition?
 
 FIRST Robotics is an international robotics competition where high schools all over the world build a robot based on requirements under limited time-constraints (six weeks). The teams then compete in various regional competition in their respective city, and the winners then move on to the championships to decide to crown a team as champions.
