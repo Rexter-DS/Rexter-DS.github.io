@@ -11,7 +11,7 @@ labels:
 summary: I was a part of a high school robotics team that participated in an international high school robotics competition called FIRST Robotics Competition, or FRC.
 ---
 
-<div class="images">
+<div class="ui-images">
   <img class="image" src="../images/2017-TeamPicture.jpg">
   <img class="image" src="../images/first-steamworks-field.jpg">
 </div>
