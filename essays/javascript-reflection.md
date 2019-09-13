@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Thoughts on Javascript from somewhat of a newbie
-date: 2019-06-09
+date: 2019-09-06
 labels:
   - Reflection
 ---
