@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: How asking smart questions can help you!
-date: 2019-12-09
+date: 2019-09-12
 labels:
   - Reflection
 ---
