@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title:
+title: How asking smart questions can help you!
 date: 2019-12-09
 labels:
   - Reflection
 ---
 
-## Smart Questions? What is that?
+## Smart questions? What is that?
 
   Eric Raymond wrote a blog about asking smart questions, but what exactly does it mean? Well, a smart question is a question that had a lot of thought put into it. It is a question that shows you had tried to solve your problem on your own using various ways of methods. These methods could be reading the API, manual, using google to search for phrases related to your problem, etc. 
   
@@ -28,8 +28,8 @@ labels:
   Another reason why this is an example of a smart question is that he formulated his own idea of what could be a potential answer to his question. This means that not only did he try to solve his own problem first before asking, he had also thought on his own as to what could be a potential answer.
   
   This question was also able to be answered in such a way that was very informative and insightful, and since he had turned up empty when he searched up his own question, other people later down the line who might also encounter the same problem would now have their answer just by searching it up.
-  
- ## An example of a not-smart question
+
+## An example of a not-smart question
  
   This would not be complete without a counter example for the opposite of a smart question.
   
