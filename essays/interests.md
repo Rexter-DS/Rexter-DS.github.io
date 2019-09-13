@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title:
+title: Why am I pursuing a career in software engineering?
 date: 2019-09-12
 labels:
   - Personal
