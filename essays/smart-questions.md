@@ -7,6 +7,10 @@ labels:
   - Reflection
 ---
 
+<p align="center">
+  <img class="ui image" src="../images/thinking.jpg">
+</p>
+
 ## Smart questions? What is that?
 
   Eric Raymond wrote a blog about asking smart questions, but what exactly does it mean? Well, a smart question is a question that had a lot of thought put into it. It is a question that shows you had tried to solve your problem on your own using various ways of methods. These methods include reading the API or manual and using Google to search for phrases related to your problem. 
