@@ -7,7 +7,7 @@ permalink: projects/sudoku
 date: 2018-09-10
 labels:
   - Java
-summary: A sudoku solver that I implemented for ICS 211.holy 
+summary: A sudoku solver that I implemented for ICS 211.
 ---
 
 ## What is it?
