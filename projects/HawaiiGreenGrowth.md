@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:images/greengrowthlogo.png
+image: images/greengrowthlogo.png
 title: Hawaii Green Growth
 permalink: projects/finalproject
 date: 2019-11-18
@@ -11,7 +11,7 @@ labels:
 summary: A project that I contributed in and presented for the HACC 2019 event where we created a web application for people to easily showcase their efforts towards the various Aloha+ conservation goals.
 ---
 
-<img class="image" src="..images/greengrowthome.png">
+<img class="image" src="../images/greengrowthome.png">
  
  ## Overview
  
