@@ -80,6 +80,19 @@
   ],
   "work": [
     {
+      "company": "ITS University of Hawaii",
+      "position": "Help Desk Consultant",
+      "website": "",
+      "startDate": "2020-09-08",
+      "endDate": "Present",
+      "summary": "ITS help desk for the University of Hawaii",
+      "highlights": [
+        "Assist in helping users in resolving their issues with the University system (i.e. Laulima, Google, etc.)",
+        "Quickly use problem solving skills to resolve the problem in a timely manner",
+        "Listen to the user's request and quickly process what it is they need"
+      ]
+    },
+    {
       "company": "Uniqlo",
       "position": "Sales Associate",
       "website": "",
@@ -89,19 +102,6 @@
       "highlights": [
         "Assist in helping customers with what they need.",
         "Work as a team to meet sales goals."
-      ]
-    },
-    {
-      "company": "ITS University of Hawaii",
-      "position": "Help Desk Consultant",
-      "website": "",
-      "startDate": "2020-09-08",
-      "endDate": "Present",
-      "summary": "SIT help desk for the University of Hawaii",
-      "highlights": [
-        "Assist in helping users in resolving their issues with the University system (i.e. Laulima, Google, etc.)",
-        "Quickly use problem solving skills to resolve the problem in a timely manner",
-        "Listen to the user's request and quickly process what it is they need"
       ]
     }
   ],
