@@ -20,5 +20,5 @@ The project was supposed to be an easy way for people to see various community e
 
 My contributions were to create the event page where it would list the various events created by people. 
 
-## Link to Github Organization page
+## Link to Github Project page
 [Github Organization](https://github.com/HACC2019/600-iq)
