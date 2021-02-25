@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "../images/profile-pic.jpg",
     "email": "rexterds@hawaii.edu",
-    "phone": "808-343-9512",
+    "phone": "808-342-1501",
     "website": "https://rexter-ds.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall 2021.",
     "location": {
@@ -63,7 +63,6 @@
       "keywords": [
         "Unix",
         "Git/GitHub",
-        "g++",
       ]
     }
   ],
@@ -85,11 +84,24 @@
       "position": "Sales Associate",
       "website": "",
       "startDate": "2019-08-16",
-      "endDate": "Present",
+      "endDate": "2019-12-22",
       "summary": "Sales associate for Uniqlo",
       "highlights": [
         "Assist in helping customers with what they need.",
         "Work as a team to meet sales goals."
+      ]
+    },
+    {
+      "company": "ITS University of Hawaii",
+      "position": "Help Desk Consultant",
+      "website": "",
+      "startDate": "2020-09-08",
+      "endDate": "Present",
+      "summary": "SIT help desk for the University of Hawaii",
+      "highlights": [
+        "Assist in helping users in resolving their issues with the University system (i.e. Laulima, Google, etc.)",
+        "Quickly use problem solving skills to resolve the problem in a timely manner",
+        "Listen to the user's request and quickly process what it is they need"
       ]
     }
   ],
