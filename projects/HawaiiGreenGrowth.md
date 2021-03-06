@@ -11,7 +11,7 @@ labels:
 summary: A project that I contributed in and presented for the HACC 2019 event where we created a web application for people to easily showcase their efforts towards the various Aloha+ conservation goals.
 ---
 
-<img class="image" src="../images/greengrowthome.png" style="width:100%;height:500px;">
+<img class="image" src="../images/greengrowthome.png" style="width:100%;height:400px;"/>
  
  ## Overview
  
