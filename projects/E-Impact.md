@@ -11,7 +11,7 @@ labels:
 summary: A web application that is easy to use so that the user can track how much greenhouse gas they are reducing.
 ---
 
-<img class="image" src="../images/eimpacthomepng.png" style="width:100%;height:200px;">
+<img class="image" src="../images/eimpacthomepng.png" style="width:100%;height:500px;">
  
  ## Overview
  
