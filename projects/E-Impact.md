@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/EImpactLogo.png 
 title: E-Impact
-permalink: projects/finalproject
+permalink: projects/eimpact
 date: 2021-01-21
 labels:
   - Final Project
