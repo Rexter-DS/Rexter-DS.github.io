@@ -13,7 +13,7 @@ summary: A project that I contributed in and presented for the HACC 2019 event w
 
 <img class="image" src="../images/greengrowthome.png" style="width:100%;height:400px;"/>
  
- ## Overview
+## Overview
  
 The project was supposed to be an easy way for people to see various community events happening around them that were helping to strive towards the Aloha+ Challenge goals. Users can also create events that can be seen by anyone and others could sign up for (i.e. beach cleanup).
 ## My Contribution
