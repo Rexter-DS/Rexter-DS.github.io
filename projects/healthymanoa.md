@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/icon.png
 title: Healthy Manoa
-permalink: projects/finalproject
+permalink: projects/healthymanoa
 date: 2019-12-18
 labels:
   - Final Project
