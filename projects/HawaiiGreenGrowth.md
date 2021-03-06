@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/greengrowthlogo.png
 title: Hawaii Green Growth
-permalink: projects/finalproject
+permalink: projects/hawaiigreengrowth
 date: 2019-11-18
 labels:
   - Project
