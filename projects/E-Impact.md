@@ -11,9 +11,9 @@ labels:
 summary: A web application that is easy to use so that the user can track how much greenhouse gas they are reducing.
 ---
 
-<img class="image" src="../images/eimpacthomepng.png" style="width:100%;height:400px;"/>
+<img class="image" src="../images/eimpacthomepng.png" style="width:100%;height:400px;">
  
- ## Overview
+## Overview
  
  Our task were to create an application that such that the user can easily track their data and how much greenhouse gas they are reducing, with the goal of inspiring more people to be environmentally conscious and take actions in reducing their greenhouse gas emissions. The application hopes to also reduce vehicle miles traveled and facilitate the education and adopption of alternate fuel vehicles.
  
