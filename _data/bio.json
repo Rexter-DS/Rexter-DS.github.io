@@ -54,13 +54,15 @@
         "C++",
         "Java",
         "Javascript",
-        "Python"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Meteor",
+        "React",
+        "MongoDB",
         "Unix",
         "Git/GitHub",
       ]
@@ -73,7 +75,7 @@
       "studyType": "B.S.",
       "startDate": "2017-08-26",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.0",
       "courses": [
       ]
     }
