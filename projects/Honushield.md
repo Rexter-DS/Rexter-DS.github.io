@@ -11,7 +11,7 @@ labels:
 summary: A web application that allows for a user to do a daily health screening to see if they should stay home for the day or not. The web app also allows the user to submit a vaccination card by inputting details and uploading a photo of the card.
 ---
 
-<img class="image" src="../images/honushield-home.png">
+<img class="image" src="../images/honushield-home.png" style="width:100%;height:400px;">
 
 ## Links
 [Deployed App](https://honushield.meteorapp.com/#/)
