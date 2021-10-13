@@ -7,6 +7,7 @@ permalink: projects/frc
 date: 2017-04-01
 labels:
   - Robotics
+  - Volunteer
   - C++
 summary: I was a part of a high school robotics team that participated in an international high school robotics competition called FIRST Robotics Competition, or FRC.
 ---
@@ -20,6 +21,11 @@ FIRST Robotics is an international robotics competition where high schools all o
 
 Every year the competition theme is different which means that teams must build different robots because each theme are wildly different from each other.
 
-## My experience as a student in the team
+## My experience as a student in the team.
 
 My experience as a high school participant in the team was amazing to put it simply. It was where I found my passion for programming because I was part of a small team that programmed as well as wired the different components onto the robot that our team built. Although I did not like the hardware side of it, I did very much enjoy the software side because of how complex the code could get over the weeks. It was also where I learned C++ as well as some Java.
+
+## Present FRC involvement.
+
+Since I graduated, I am still currently in contact with my old team as a volunteer mentor. I help out when I have time with teaching students on how components work and how they are all wired up together. I also help out with the programming aspect by teaching the students what I know about C++ and Java.
+

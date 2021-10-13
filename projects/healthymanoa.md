@@ -7,10 +7,17 @@ permalink: projects/healthymanoa
 date: 2019-12-18
 labels:
   - Final Project
+  - ReactJS
+  - Meteor
 summary: A final project for my ICS 314 class that I contributed in making along with three other people in order to help the Manoa community.
 ---
 
 <img class="image" src="../images/homepage.png" style="width:100%;height:400px;"/>
+
+## Links
+[Github Pages](https://healthy-manoa.github.io/)
+
+[Github Repo](https://github.com/healthy-manoa/project)
  
 ## Overview
  
@@ -22,5 +29,3 @@ Our solution to this problem was to create a web application that will be an eas
 
 Our team decided to divide up the work equally and work on what component interested us the most. I mainly worked on the search function of the web application and making it so that it was able to search up both recipes and stores. I also helped out my team members a little with their own share of the workload but where I learned the most was what I was working on. What I learned from this experience was how to use the react router and redirect to pages when an event happened. I also learned how React was passing around data to each component and pages.
 
-## Link to Github Organization page
-[Github Organization](https://github.com/healthy-manoa)
