@@ -22,4 +22,4 @@ I learned quite a bit during the process of creating this project. First, I star
 
 Here is the program running and solving a "Harder/Impossible" level puzzle
 
-<img class="image" src="../images/sudoku-puzzle-example.png">
+<img class="image" src="../images/sudoku-puzzle-example.png" style="width:100%;height:25rem;">

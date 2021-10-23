@@ -8,11 +8,11 @@ date: 2019-12-18
 labels:
   - Final Project
   - ReactJS
-  - Meteor
+  - MeteorJS
 summary: A final project for my ICS 314 class that I contributed in making along with three other people in order to help the Manoa community.
 ---
 
-<img class="image" src="../images/homepage.png" style="width:100%;height:400px;"/>
+<img class="image" src="../images/homepage.png" style="width:100%;height:25rem;"/>
 
 ## Links
 [Github Pages](https://healthy-manoa.github.io/)

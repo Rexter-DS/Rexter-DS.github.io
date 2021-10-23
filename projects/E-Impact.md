@@ -8,12 +8,12 @@ date: 2021-01-21
 labels:
   - Final Project
   - ReactJS
-  - Meteor
+  - MeteorJS
   - Plotly
 summary: A web application that is easy to use so that the user can track how much greenhouse gas they are reducing.
 ---
 
-<img class="image" src="../images/eimpacthomepng.png" style="width:100%;height:400px;">
+<img class="image" src="../images/eimpacthomepng.png" style="width:100%;height:25rem;">
 
 ## Links
 [Github Pages](https://environment-overflow.github.io/)

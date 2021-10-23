@@ -13,7 +13,7 @@ summary: I was a part of a high school robotics team that participated in an int
 ---
 
 
- <img class="image" src="../images/2017-TeamPicture.jpg">
+ <img class="image" src="../images/2017-TeamPicture.jpg" style="width:100%;height:25rem;">
  
 ## What is FIRST Robotics Competition?
 
