@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/honushield-landing.png 
+image: images/honushield-logo.png 
 title: Honushield
 permalink: projects/Honushield
 date: 2021-08-21
