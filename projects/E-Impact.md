@@ -10,12 +10,15 @@ labels:
   - ReactJS
   - MeteorJS
   - Plotly
+  - Work in progress
 summary: A web application that is easy to use so that the user can track how much greenhouse gas they are reducing.
 ---
 
 <img class="image" src="../images/eimpacthomepng.png" style="width:100%;height:25rem;">
 
 ## Links
+[Deployed App](https://eimpact.xyz)
+
 [Github Pages](https://environment-overflow.github.io/)
 
 [Github Repo](https://github.com/environment-overflow/E-Impact) 
