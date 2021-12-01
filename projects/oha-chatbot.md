@@ -19,7 +19,7 @@ summary: A web application created during the HACC 2021 Hackathon with the goal 
 
 ## Links
 
-[Video Demo](hhttps://www.youtube.com/watch?v=437G68KBJPY)
+[Video Demo](https://www.youtube.com/watch?v=437G68KBJPY)
 
 [Github Repo](https://github.com/HACC2021/TeamName404)
 
