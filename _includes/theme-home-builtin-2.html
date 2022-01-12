@@ -4,38 +4,40 @@
 {% assign num_essays = essay_pages.size %}
 {% assign num_projects = project_pages.size %}
 
-<div style="height: 100%;" class="ui middle aligned two column centered stackable grid container">
+<div style="height: 100%;">
+  <div style="height: 100%; margin: 0;" class="ui middle aligned two column centered stackable grid container">
 
-  <div style="text-align: center" class="column">
-    <div  class="ui rounded image">
-      <img style="max-width: 300px" src="{{ site.data.bio.basics.picture }}">
+    <div style="text-align: center;" class="column">
+      <div  class="ui rounded image">
+        <img style="max-width: 300px" src="{{ site.data.bio.basics.picture }}">
+      </div>
     </div>
-  </div>
-
-  <div class="column">
-    <h2 class="header no-bottom">{{ site.data.bio.basics.name }}</h2>
-    <p class="">{{ site.data.bio.basics.label }}</p>
-    <p class="">
-      {{ site.data.bio.basics.summary }}
-    </p>
-    <p>Interests:
-      {% for interest in site.data.bio.interests %}
-        {{ interest.name }}{% if forloop.last != true %}, {% endif %}
-      {% endfor %}
-    </p>
-    <p style="text-align: center">
-      {% include home-network-links.html %}
-    </p>
-    <p style="text-align: center">
-      <a href="{{ site.baseurl}}/projects/">
-        <button class="ui basic button">Projects ({{ num_projects }})</button>
-      </a>
-      <a href="{{ site.baseurl}}/essays/">
-        <button class="ui basic button">Essays ({{ num_essays }})</button>
-      </a>
-      <a href="{{ site.baseurl}}/Resume_Rexter_DelosSantos.pdf">
-        <button class="ui basic button">{{ site.bio-page-label }}</button>
-      </a>
-    </p>
+  
+    <div class="column">
+      <h2 class="header no-bottom">{{ site.data.bio.basics.name }}</h2>
+      <p class="">{{ site.data.bio.basics.label }}</p>
+      <p class="">
+        {{ site.data.bio.basics.summary }}
+      </p>
+      <p>Interests:
+        {% for interest in site.data.bio.interests %}
+          {{ interest.name }}{% if forloop.last != true %}, {% endif %}
+        {% endfor %}
+      </p>
+      <p style="text-align: center">
+        {% include home-network-links.html %}
+      </p>
+      <p style="text-align: center">
+        <a href="{{ site.baseurl}}/projects/">
+          <button class="ui black basic button">Projects ({{ num_projects }})</button>
+        </a>
+        <a href="{{ site.baseurl}}/essays/">
+          <button class="ui black basic button">Essays ({{ num_essays }})</button>
+        </a>
+        <a href="{{ site.baseurl}}/Resume_Rexter_DelosSantos.pdf">
+          <button class="ui black basic button">{{ site.bio-page-label }}</button>
+        </a>
+      </p>
+    </div>
   </div>
 </div>
